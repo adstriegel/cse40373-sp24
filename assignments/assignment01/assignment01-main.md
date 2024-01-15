@@ -28,6 +28,6 @@ For access, you will either need to be on campus or use the VPN to access campus
 
 There are two parts to the assignment:
 
-* [Assignment Setup](): This involves the setup for your assignment including cloning the class repository (read-only) and creating your private repository.
-* [Assignment Coding](): The actual coding part of the assignment.  
+* [Assignment Setup](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment01/assignment01-setup.md): This involves the setup for your assignment including cloning the class repository (read-only) and creating your private repository.
+* [Assignment Coding](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment01/assignment01-coding.md): The actual coding part of the assignment.  
 
