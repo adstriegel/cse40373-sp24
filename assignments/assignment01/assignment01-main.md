@@ -31,3 +31,10 @@ There are two parts to the assignment:
 * [Assignment Setup](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment01/assignment01-setup.md): This involves the setup for your assignment including cloning the class repository (read-only) and creating your private repository.
 * [Assignment Coding](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment01/assignment01-coding.md): The actual coding part of the assignment.  
 
+## Submission
+
+The submission of your assignment involves two parts:
+
+* Push your private repository updates to Github
+   * You can confirm what we can see by browsing your Github repository on the web.  If it is not visible when browsing it on the web, it has not been pushed successfully.
+* Copy the hash of your commit and then copy / paste the hash into Canvas for your assignment submission

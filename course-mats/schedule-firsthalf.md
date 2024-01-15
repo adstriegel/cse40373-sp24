@@ -8,11 +8,11 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | | | **Introduction / Skill Check** | | |
 | 1 | 01-16 T |  1 | Syllabus, Introduction, CPS Overview | Course Notes <br> Syllabus | |
-| 1 | 01-18 R |  2 | Digital Logic - FSM, C - Bit Manipulation, Pointers, Files, Memory, Python - JSON, Web, ZMQ | | Assignment 1 | |
+| 1 | 01-18 R |  2 | Digital Logic - FSM, C - Bit Manipulation, Pointers, Files, Memory, Python - JSON, Web, ZMQ | | [Assignment 1](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment01/assignment01-main.md) | |
 | 2 | | | **Week 2 - Devices, Polling, and Interrupts** | | |
 | 2 | 01-23 T |  3 | On-Chip I/O - Control, Status, Data | | |
 | 2 | 01-25 R |  4 | Interrupts, Exception Handling, Device Drivers | | Assignment 2 | |
-| 2 | 01-26 F | | | | | Assignment 1 |
+| 2 | 01-26 F | | | | | [Assignment 1](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment01/assignment01-main.md) |
 | 3 | | | **Digital I/O and Buses** | | | 
 | 3 | 01-30 T |  5 | Digital I/O - GPIO, Basic Input and Output, Logic Levels, Interface Techhnology | | |
 | 3 | 02-01 R |  6 | Datasheets, PCBs, Buses | | |
