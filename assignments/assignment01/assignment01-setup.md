@@ -115,7 +115,7 @@ For Git, there are two ways to create a repository: initializing a repository an
 
 1. Login to your GitHub account and create a new repository named `student-cse40373-sp24-NETID` where `NETID` is your Notre Dame net ID (e.g. `striegel`). 
 2. Go to that repository and make sure that the repository is set as private.
-3. Add Professor Striegel and the TA (adstriegel, TBA) as collaborators for your repository.  We will strictly be read-only but we do need access for your private repository.  
+3. Add Professor Striegel and the TA (adstriegel, SaeidMhrdd) as collaborators for your repository.  We will strictly be read-only but we do need access for your private repository.  
 
 Now that we have it created, let's clone your repository then locally.  You should replace `adstriegel` with your GitHub username and the repository name to use your netid.  
 
