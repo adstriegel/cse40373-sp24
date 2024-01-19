@@ -135,7 +135,7 @@ The submission will be the same procedure as past assignments.  That means:
 ### General Mechanics - 10 points
 
 * 2 pts - No intervention required for the submission
-* 1 pt - Right information in `README.MD`
+* 1 pt - Right information in `README.MD` - name + e-mail address
 * 1 pt - Right information in Canvas (commit hash)
 * 1 pt - More thane one commit visible on GitHub with appropriate commit messages
 * 5 pts - Well-commented / structured code
