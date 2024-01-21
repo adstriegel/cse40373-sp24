@@ -37,9 +37,12 @@ Quick Links: [Canvas](https://canvas.nd.edu)
   
 A brief overview of the assignments are also given below:
 
-| Assignment | Description | Assigned | Due | 
+| Assignment | Description | Assigned | Due | Group | 
 | --- | --- | --- | --- | 
-| 1 | Skill check - Github, Python, C | Thursday, January 18th | Friday, January 26th at 10 PM | 
-| 2 | Pointer Math, Flat Memory Addressing, Bit-wise Manipulation | Thursday, January 25th | Friday, February 2nd at 10 PM |    
+| 1 | Skill check - Github, Python, C | Thursday, January 18th | Friday, January 26th at 10 PM | Individual | 
+| 2 | Pointer Math, Flat Memory Addressing, Bit-wise Manipulation | Monday, January 22nd | Friday, February 2nd at 10 PM | Individual |     
+| 3 | Stoplight - Python and Interaction with Simulated GPIO | Monday, January 29th | Friday, February 9th at 10 PM | Individual | 
+| 4 | Installation - Raspbian - Raspberry Pi + Testing of Assignment 3 | Monday, February 5th | Friday, February 16th at 10 PM | Group | 
+
 
 
