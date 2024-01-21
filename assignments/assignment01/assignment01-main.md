@@ -4,6 +4,10 @@
 
 **Due Date**: Friday, January 26th, 10 PM
 
+**Group Size:** To be done individually
+
+**Assignment Location:** `assignments/assignment01`
+
 The focus on this assignment is to get you setup for assignment submission for the class as well as to do some introductory coding integrating C and Python via ZMQ.  
 
 ## Pre-Requisites
