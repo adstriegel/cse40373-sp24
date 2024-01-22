@@ -7,8 +7,8 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | **Week** | **Date** | **Lecture** | **Description** | **Links** | **Assigned** | **Due** |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | | | **Introduction / Skill Check** | | |
-| 1 | 01-16 T |  1 | Syllabus, Introduction, CPS Overview | Course Notes <br> Syllabus | |
-| 1 | 01-18 R |  2 | Digital Logic - FSM, C - Bit Manipulation, Pointers, Files, Memory, Python - JSON, Web, ZMQ | | [Assignment 1](https://canvas.nd.edu/courses/91970/assignments/245144) | |
+| 1 | 01-16 T |  1 | Syllabus, Introduction, CPS Overview | Course Notes <br> Syllabus <br> [Lectrue Notes](https://github.com/adstriegel/cse40373-sp24/blob/main/course-mats/lectures/01-16-24-Lecture-01/notes.md) | |
+| 1 | 01-18 R |  2 | Digital Logic - FSM, C - Bit Manipulation, Pointers, Files, Memory, Python - JSON, Web, ZMQ | [Lecture Notes](https://github.com/adstriegel/cse40373-sp24/blob/main/course-mats/lectures/01-18-24-Lecture-02/notes.md) <br> [Recap](https://github.com/adstriegel/cse40373-sp24/blob/main/course-mats/lectures/01-18-24-Lecture-02/recap.md) <br> [Handout](https://github.com/adstriegel/cse40373-sp24/blob/main/course-mats/lectures/01-18-24-Lecture-02/Handout-Lecture02.pdf) | [Assignment 1](https://canvas.nd.edu/courses/91970/assignments/245144) | |
 | 2 | | | **Week 2 - Devices, Polling, and Interrupts** | | |
 | 2 | 01-22 M | | | | [Assignment 2](https://canvas.nd.edu/courses/91970/assignments/250335) | | 
 | 2 | 01-23 T |  3 | On-Chip I/O - Control, Status, Data | | |
