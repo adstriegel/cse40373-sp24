@@ -15,22 +15,25 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | 2 | 01-25 R |  4 | Interrupts, Exception Handling, Device Drivers | | Assignment 2 | |
 | 2 | 01-26 F | | | | | [Assignment 1](https://canvas.nd.edu/courses/91970/assignments/245144) |
 | 3 | | | **Digital I/O and Buses** | | | 
+| 3 | 01-29 M | | | | Assignment 3 | | 
 | 3 | 01-30 T |  5 | Digital I/O - GPIO, Basic Input and Output, Logic Levels, Interface Techhnology | | |
 | 3 | 02-01 R |  6 | Datasheets, PCBs, Buses | | |
 | 3 | 02-02 F | | | | [Assignment 2](https://canvas.nd.edu/courses/91970/assignments/250335) |
-| 4 | 02-06 |  7 | Clocks, Prescalars, Time Measurement | | |
-| 4 | 02-08 |  8 | Time Driven I/O | | |
-| 5 | 02-13 |  9 | A/Ds - Analog to Digital | | |
-| 5 | 02-15 | 10 | D/As - Digital to Analog, Control Loops | | | 
-| 6 | 02-19 |    | | Project Concept | |
-| 6 | 02-20 | 11 | Serial Basics (UART, SPI, I2C) | | |
-| 6 | 02-22 | 12 | Wireless (Bluetooth, WiFi) | | |
-| 7 | 02-27 | 13 | Networking, Cellular | | |
-| 7 | 02-29 | 14 | Cloud, Data Storage, Coordination | | |
-| 7 | 03-01 | | | | Project Concept | 
-| 8 | 03-04 | | | Project Proposal | | 
-| 8 | 03-05 | 15 | Mid-Term Exam | | | 
-| 8 | 03-07 | 16 | In-Class Course Project Proposals | | |   
+| 4 | 02-05 M | | | Assignment 4 | | 
+| 4 | 02-06 T |  7 | Clocks, Prescalars, Time Measurement | | |
+| 4 | 02-08 R |  8 | Time Driven I/O | | |
+| 5 | 02-13 T |  9 | A/Ds - Analog to Digital | | |
+| 5 | 02-15 R | 10 | D/As - Digital to Analog, Control Loops | | | 
+| 5 | 02-16 F | | | | Assignment 3 | | 
+| 6 | 02-19 M |    | | Project Concept | |
+| 6 | 02-20 T | 11 | Serial Basics (UART, SPI, I2C) | | |
+| 6 | 02-22 R | 12 | Wireless (Bluetooth, WiFi) | | |
+| 7 | 02-27 T | 13 | Networking, Cellular | | |
+| 7 | 02-29 R | 14 | Cloud, Data Storage, Coordination | | |
+| 7 | 03-01 F | | | | Project Concept <br> Assignment 4 |  
+| 8 | 03-04 M | | | Project Proposal | | 
+| 8 | 03-05 T | 15 | Mid-Term Exam | | | 
+| 8 | 03-07 R | 16 | In-Class Course Project Proposals | | |   
 | 8 | 03-08 F | 16 | | | Slides - Project Proposal | 
 |   | 03-12 | | Spring Break - No Class | | | 
 |   | 03-14 | | Spring Break - No Class | | | 
