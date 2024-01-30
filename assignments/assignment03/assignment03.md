@@ -34,6 +34,8 @@ We will use the Rasbperry Pi Sense HAT board and its 8x8 LED matrix to emulate c
 
 Write the control code to realize the stoplight controller using Python and test / confirm your code using the emulator linked above.  Your file should be named `stoplight.py`.
 
+This will be first code that you will test on the actual Raspberry Pi in Assignment 4.s
+
 ## Submission
 
 **REMEMBER:** We will only be testing your code on the emulator.  

@@ -18,13 +18,6 @@ With a firm foundation now on devices, we will begin our tour of various devices
 * Assignment 3
    * Stoplight controller
 
-## Prompt
-
-Stopwatch - pass around - how low can you go?
-   * At most three chances - what is your best?
-
-Embedded system?
-
 ## Assignment 3
 
 Stoplight controller in Python
