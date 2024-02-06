@@ -28,9 +28,10 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | 6 | 02-19 M |    | | Project Concept | |
 | 6 | 02-20 T | 11 | Serial Basics (UART, SPI, I2C) | | |
 | 6 | 02-22 R | 12 | Wireless (Bluetooth, WiFi) | | |
+| 6 | 02-23 F | | | | Assignment 4 |
 | 7 | 02-27 T | 13 | Networking, Cellular | | |
 | 7 | 02-29 R | 14 | Cloud, Data Storage, Coordination | | |
-| 7 | 03-01 F | | | | Project Concept <br> Assignment 4 |  
+| 7 | 03-01 F | | | | Project Concept |  
 | 8 | 03-04 M | | | Project Proposal | | 
 | 8 | 03-05 T | 15 | Mid-Term Exam | | | 
 | 8 | 03-07 R | 16 | In-Class Course Project Proposals | | |   
