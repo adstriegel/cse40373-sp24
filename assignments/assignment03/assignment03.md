@@ -1,8 +1,8 @@
 # CSE 40373 - Spring 2024 - Assignment 03
 
-**Assigned:** Monday, January 29th
+**Assigned:** Tuesday, February 5th
 
-**Due Date**: Friday, February 10rd, 10 PM
+**Due Date**: Friday, February 16th, 10 PM
 
 **Group Size:** To be done individually
 

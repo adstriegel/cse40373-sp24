@@ -1,16 +1,16 @@
 # CSE 40373 - Spring 2024 - Assignment 04
 
-**Assigned:** Monday, February 5th
+**Assigned:** Tuesday, February 6th
 
-**Due Date**: Friday, February 16th, 10 PM
+**Due Date**: Friday, February 23rd, 10 PM
 
 **Group Size:** To be done as a group of up to 4 students
 
 **Assignment Location:** `assignments/assignment04`
 
-Note that there will not be any code for this assignment but rather setting up Linux on a Raspberry Pi of your choosing in the lab and running one of your group member's piece of code from Assignment 3.
+Note that there will not be any code for this assignment but rather setting up Linux on a Raspberry Pi of your choosing in the lab and running one of your group member's piece of code from Assignment 3.  It is possible to do Assignment 3 on the Raspberry Pi as well if you would prefer to do it that way rather than emulation.  
 
-## Task 1 - Install an OS
+## Task 1 - Install the OS
 
 Your primary task for this assignment will be to identify your group members and then to work together to install Raspbian on a Raspberry Pi of your choosing.  Generally, this should take roughly an hour or so with all of your group working together.
 
@@ -42,6 +42,11 @@ Capture a few images that confirm that your code is working (the run command via
 
 Submit that PDF via Canvas.  
 
+## Rubric - 15 points
+
+* 5 pts - Google Sheet populated with information about selected Raspberry Pi
+* 3 pts - Date / time proof included with demonstration
+* 7 pts - Multiple pictures of operational states (at least 3x) in the PDF 
 
 
 
