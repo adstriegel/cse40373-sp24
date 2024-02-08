@@ -7,7 +7,6 @@ In today's lecture, we will talk about clocks, time, and how we measure time.
 * Activity - Stopwatch
 * Lab Space - B19b
 * Assignment 4
-* Stopwatches
 
 ## Links
 
