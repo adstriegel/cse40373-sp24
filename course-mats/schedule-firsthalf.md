@@ -49,4 +49,3 @@ A brief overview of the assignments are also given below:
 | 4 | Installation - Raspbian - Raspberry Pi + Testing of Assignment 3 | Monday, February 5th | Friday, February 23rd at 10 PM | Group | 
 | 5 | Smart Thermostat | Monday, February 12th | Friday, March 1st at 10 PM | Group | 
 
-
