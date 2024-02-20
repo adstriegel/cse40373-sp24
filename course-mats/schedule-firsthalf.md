@@ -23,11 +23,11 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | 4 | 02-06 T |  7 | Clocks, Prescalars, Time Measurement | | |
 | 4 | 02-08 R |  8 | Time Driven I/O | | |
 | 5 | 02-13 T |  9 | A/Ds - Analog to Digital | | |
-| 5 | 02-15 R | 10 | D/As - Digital to Analog, Control Loops | | | 
+| 5 | 02-15 R | 10 | In-Lab Work - Fitzpatrick B19B | | | 
 | 5 | 02-16 F | | | | Assignment 3 | | 
-| 6 | 02-19 M |    | | Project Concept | |
-| 6 | 02-20 T | 11 | Serial Basics (UART, SPI, I2C) | | |
-| 6 | 02-22 R | 12 | Wireless (Bluetooth, WiFi) | | |
+| 6 | 02-19 M |    | | Project Concept <br> Assignment 5 | |
+| 6 | 02-20 T | 11 | D/As - Digital to Analog, Control Loops <br> Serial Basics (UART, SPI, I2C) | | |
+| 6 | 02-22 R | 12 | Serial (Continued) <br> Wireless (Bluetooth, WiFi) | | |
 | 6 | 02-23 F | | | | Assignment 4 |
 | 7 | 02-27 T | 13 | Networking, Cellular | | |
 | 7 | 02-29 R | 14 | Cloud, Data Storage, Coordination | | |
@@ -46,6 +46,7 @@ A brief overview of the assignments are also given below:
 | 1 | Skill check - Github, Python, C | Thursday, January 18th | Friday, January 26th at 10 PM | Individual | 
 | 2 | Pointer Math, Flat Memory Addressing, Bit-wise Manipulation | Monday, January 22nd | Friday, February 2nd at 10 PM | Individual |     
 | 3 | Stoplight - Python and Interaction with Simulated GPIO | Monday, January 29th | Friday, February 16th at 10 PM | Individual | 
-| 4 | Installation - Raspbian - Raspberry Pi + Testing of Assignment 3 | Monday, February 5th | Friday, February 23rd at 10 PM | Group | 
-| 5 | Smart Thermostat | Monday, February 12th | Friday, March 1st at 10 PM | Group | 
+| 4 | Installation - Raspbian - Raspberry Pi + Testing of Assignment 3 | Monday, February 12th | Friday, February 23rd at 10 PM | Group | 
+| 5 | Smart Thermostat | Monday, February 19th | Friday, March 1st at 10 PM | Group | 
+| | Project Concept | Tuesday, February 20th | Friday, March 1st at 10 PM | Group | 
 
