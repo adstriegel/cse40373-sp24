@@ -18,14 +18,14 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | 3 | 01-29 M | | | | | | 
 | 3 | 01-30 T |  5 | Digital I/O - GPIO, Basic Input and Output, Logic Levels, Interface Techhnology | | |
 | 3 | 02-01 R |  6 | Datasheets, PCBs, Buses | | |
-| 3 | 02-02 F | | | | [Assignment 2](https://canvas.nd.edu/courses/91970/assignments/250335) |
+| 3 | 02-02 F | | | | | [Assignment 2](https://canvas.nd.edu/courses/91970/assignments/250335) |
 | 4 | 02-05 M | | | | [Assignment 3](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment03/assignment03.md) | | 
 | 4 | 02-06 T |  7 | Clocks, Prescalars, Time Measurement | | |
 | 4 | 02-08 R |  8 | Time Driven I/O | | |
 | 5 | 02-12 M | | | | [Assignment 4](https://canvas.nd.edu/courses/91970/assignments/250357) | | 
 | 5 | 02-13 T |  9 | A/Ds - Analog to Digital | | |
 | 5 | 02-15 R | 10 | In-Lab Work - Fitzpatrick B19B | | | 
-| 5 | 02-16 F | | | | Assignment 3 | | 
+| 5 | 02-16 F | | | | | [Assignment 3](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment03/assignment03.md) | 
 | 6 | 02-19 M |    | | [Project Concept](https://canvas.nd.edu/courses/91970/assignments/257944), <br> [Assignment 5](https://canvas.nd.edu/courses/91970/assignments/256872) | |
 | 6 | 02-20 T | 11 | D/As - Digital to Analog, Control Loops <br> Serial Basics (UART, SPI, I2C) | | |
 | 6 | 02-22 R | 12 | Serial (Continued) <br> Wireless (Bluetooth, WiFi) | | |
