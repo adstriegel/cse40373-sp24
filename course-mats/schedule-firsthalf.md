@@ -12,7 +12,7 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | 2 | | | **Week 2 - Devices, Polling, and Interrupts** | | |
 | 2 | 01-22 M | | | | [Assignment 2](https://canvas.nd.edu/courses/91970/assignments/250335) | | 
 | 2 | 01-23 T |  3 | On-Chip I/O - Control, Status, Data | | |
-| 2 | 01-25 R |  4 | Interrupts, Exception Handling, Device Drivers | | Assignment 2 | |
+| 2 | 01-25 R |  4 | Interrupts, Exception Handling, Device Drivers | |  | |
 | 2 | 01-26 F | | | | | [Assignment 1](https://canvas.nd.edu/courses/91970/assignments/245144) |
 | 3 | | | **Digital I/O and Buses** | | | 
 | 3 | 01-29 M | | | | | | 
@@ -26,11 +26,11 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | 5 | 02-13 T |  9 | A/Ds - Analog to Digital | | |
 | 5 | 02-15 R | 10 | In-Lab Work - Fitzpatrick B19B | | | 
 | 5 | 02-16 F | | | | | [Assignment 3](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/assignment03/assignment03.md) | 
-| 6 | 02-19 M |    | | [Project Concept](https://canvas.nd.edu/courses/91970/assignments/257944), <br> [Assignment 5](https://canvas.nd.edu/courses/91970/assignments/256872) | |
+| 6 | 02-19 M |    | | | [Project Concept](https://canvas.nd.edu/courses/91970/assignments/257944), <br> [Assignment 5](https://canvas.nd.edu/courses/91970/assignments/256872) | |
 | 6 | 02-20 T | 11 | D/As - Digital to Analog, Control Loops <br> Serial Basics (UART, SPI, I2C) | | |
-| 6 | 02-22 R | 12 | Serial (Continued) <br> Wireless (Bluetooth, WiFi) | | |
+| 6 | 02-22 R | 12 | Serial (Continued) | | |
 | 6 | 02-23 F | | | | [Assignment 4](https://canvas.nd.edu/courses/91970/assignments/250357) |
-| 7 | 02-27 T | 13 | Networking, Cellular | | |
+| 7 | 02-27 T | 13 | Wireless (Bluetooth, WiFi), Networking, Cellular | | |
 | 7 | 02-29 R | 14 | Cloud, Data Storage, Coordination | | |
 | 7 | 03-01 F | | | | [Project Concept]((https://canvas.nd.edu/courses/91970/assignments/257944)), <br> [Assignment 5](https://canvas.nd.edu/courses/91970/assignments/256872) |  
 | 8 | 03-04 M | | | Project Proposal | | 
