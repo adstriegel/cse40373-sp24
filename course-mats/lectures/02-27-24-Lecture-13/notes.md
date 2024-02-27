@@ -40,11 +40,11 @@ What are the various components / inputs that feed into the system?
 
 ## Write Code
 
-Write a C function that takes in an input byte where the data is in bits 7-1 and the parity bit is in bit 0.  Return the full byte with bit 0 properly set for odd parity.  
+Write a C function that takes in an input byte where the data is in bits 7-1 and the parity bit is in bit 0.  Return the full byte with bit 0 properly set for even parity.  
 
 * How do you count the number of 1's?
-* How do you determine if the number was odd?
-* How would you set or clear the byte?
+* How do you determine if the number was even?
+* How would you set or clear the parity bit?
 
 ## SPI 
 
