@@ -2,16 +2,16 @@
 
 Create a well-developed project during the second half of the semester.  Your project should be done in a group with at least one other person.  The project should have the following elements: usage of a microcontroller (Raspberry Pi, Arduino, etc.), some elements of a cyber-physical system (sensing, actuation, or both), and some sort of network element / centralized data storage / logging (e.g. a way to figure out what happened along with the physical world manipulation if appropriate).
 
-The project will evolve durign the first half of March and to a lesser extent as well during late March and April.  The project will culminate in a final submitted and documented code repository and a demo on the last day of class in the lab in Fitzpatrick B19B (or appropriate pre-recorded video).   
+The project will evolve durign the first half of March and to a lesser extent as well during late March and April.  The project will culminate in a final submitted and documented code repository and a pre-recorded demo on the last day of class in the lab in Fitzpatrick B19B (optional supplemental demonstration). 
 
 ## Project Due Dates
 
 * March 1st - Concept - Identify group members and submit 2-3 sentences to Canvas
 * March 7th - Concept - Present in class your concept idea through 2-3 slides. Offer feedback to other course concepts.
-* March 22nd - Project Proposal - Write up a 1-2 page document describing your project, the rough approach, and needed equipment.
-* April 5th - Status Report 1 - Submit a brief status report demonstrating at least one component of your project
-* April 19th - Status Report 2 - Submit a brief status report demonstrating two working components of your project and narrate aspects of your code / solution
-* April 30th - Demo Day (In Lab) - Demonstrate your project in class in the lab. Submit your code and accompanying documentation via Github.  
+* March 22nd - Project Proposal - Write up a 1-3 page document describing your project, the rough approach, and needed equipment.
+* April 5th - Status Report 1 - Submit a brief status report including a status writeup and an accompanying video demonstrating one portion of the project
+* April 19th - Status Report 2 - Submit a brief status report including an updated status writeup and an accompanying video demonstrating two portions of the project
+* April 30th - Demo Day (In Lab) - Demonstrate your project in class in the lab via a pre-recorded video that can be supplemented with an in-lab demo. Submit your code and accompanying documentation via Github.  
 
 ## Potential Ideas
 

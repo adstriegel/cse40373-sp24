@@ -41,7 +41,7 @@ Quick Links: [Canvas](https://canvas.nd.edu)
 | 8 | 03-04 M | | | Project Proposal | | 
 | 8 | 03-05 T | 15 | Mid-Term Exam | | | 
 | 8 | 03-07 R | 16 | In-Class Course Project Proposals | | |   
-| 8 | 03-08 F | 16 | | | Slides - Project Proposal | 
+| 8 | 03-08 F | | | | Slides - Project Proposal | 
 |   | 03-12 | | Spring Break - No Class | | | 
 |   | 03-14 | | Spring Break - No Class | | | 
   
