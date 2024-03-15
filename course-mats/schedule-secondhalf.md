@@ -8,38 +8,38 @@ In the second half, we will transition over to a bit more hardware-centric as we
 | --- | --- | --- | --- | --- | --- | --- |
 | | | | **Spring Break** | | | 
 | 9 | | | **Week 9 - Buses** | | |  
-| 9 | 03-18 M | | | | Project Proposal | | 
-| 9 | 03-19 T | 17 | Memory + Buses | | | | 
-| 9 | 03-21 R | 18 | Automotive / CAN | | | | 
-| 9 | 03-22 F | | | | | Project Proposal | 
+| 9 | 03-18 M | | | | [Project Proposal](https://canvas.nd.edu/courses/91970/assignments/261764) | | 
+| 9 | 03-19 T | 17 | Memory + Buses | Notes<br>Slides<br>Panopto | | | 
+| 9 | 03-21 R | 18 | Automotive / CAN | Notes<br>Slides<br>Panopto | | | 
+| 9 | 03-22 F | | | | | [Project Proposal](https://canvas.nd.edu/courses/91970/assignments/261764) | 
 | 10 | | | **Week 10 - Displays** | | | 
-| 10 | 03-25 M | | | | Status Report 1<br>Pick a Lab | | 
-| 10 | 03-26 T | 19 | Displays (LCD, LED) | | | |
-| 10 | 03-28 R | 20 | Inputs (Keypad, Capacitive, Swipe, Knobs) | | | |
-| 10 | 03-29 F | | **Good Friday - Break** | | | None |     
+| 10 | 03-25 M | | | | [Status Report 1](https://canvas.nd.edu/courses/91970/assignments/261771)<br>[Pick a Lab](https://canvas.nd.edu/courses/91970/assignments/261778) | | 
+| 10 | 03-26 T | 19 | Displays (LCD, LED) | Notes<br>Slides<br>Panopto | | |
+| 10 | 03-28 R | 20 | Inputs (Keypad, Capacitive, Swipe, Knobs) | Notes<br>Slides<br>Panopto | | |
+| 10 | 03-29 F | | *Good Friday - Break* | | | None |     
 | 11 | | | **Week 11 - Real-Time Systems** | | | 
-| 11 | 04-01 M | | **Easter Monday - Break** | | | | 
-| 11 | 04-02 T | 21 | Real-Time Systems | | | |
-| 11 | 04-04 R | 22 | Real-Time Systems | | | |
-| 11 | 04-05 F | | | | | Status Report 1 |
+| 11 | 04-01 M | | *Easter Monday - Break* | | | | 
+| 11 | 04-02 T | 21 | Real-Time Systems | Notes<br>Slides<br>Panopto | | |
+| 11 | 04-04 R | 22 | Real-Time Systems | Notes<br>Slides<br>Panopto | | |
+| 11 | 04-05 F | | | | | [Status Report 1](https://canvas.nd.edu/courses/91970/assignments/261771) |
 | 12 | | | **Week 12 - Networking Time and Power** | | | 
-| 12 | 04-08 M | | | | Status Report 2 | | 
-| 12 | 04-09 T | 23 | Time Sensitive Networking | | | |
-| 12 | 04-11 R | 24 | Low Power Networking | | | |
-| 12 | 04-12 F | | | | | Pick a Lab |
+| 12 | 04-08 M | | | | [Status Report 2](https://canvas.nd.edu/courses/91970/assignments/261772) | | 
+| 12 | 04-09 T | 23 | Time Sensitive Networking | Notes<br>Slides<br>Panopto | | |
+| 12 | 04-11 R | 24 | Low Power Networking | Notes<br>Slides<br>Panopto | | |
+| 12 | 04-12 F | | | | | [Pick a Lab](https://canvas.nd.edu/courses/91970/assignments/261778) |
 | 13 | | | **Week 13 - Networking Time and Power** | | | 
-| 13 | 04-15 M | | | | Final Presentation<br>Final Report<br>Final Code | | 
-| 13 | 04-16 T | 25 | Fault Tolerant Systems | | | |
-| 13 | 04-18 R | 26 | Fault Tolerant Systems | | | |
-| 13 | 04-19 F | | | | | Status Report 2 |
+| 13 | 04-15 M | | | | Final Presentation<br>[Final Report](https://canvas.nd.edu/courses/91970/assignments/261776)<br>[Final Code](https://canvas.nd.edu/courses/91970/assignments/261777) | | 
+| 13 | 04-16 T | 25 | Fault Tolerant Systems | Notes<br>Slides<br>Panopto | | |
+| 13 | 04-18 R | 26 | Fault Tolerant Systems | Notes<br>Slides<br>Panopto | | |
+| 13 | 04-19 F | | | | | [Status Report 2](https://canvas.nd.edu/courses/91970/assignments/261772) |
 | 14 | | | **Week 14 - Storage and Security** | | | 
 | 14 | 04-22 M | | | | | | 
-| 14 | 04-23 T | 27 | Persistent Storage | | | |
-| 14 | 04-25 R | 28 | Security / Tampering | | | |
+| 14 | 04-23 T | 27 | Persistent Storage | Notes<br>Slides<br>Panopto | | |
+| 14 | 04-25 R | 28 | Security / Tampering | Notes<br>Slides<br>Panopto | | |
 | 14 | 04-26 F | | | | | None |
 | 14 | | | **Week 15 - Final Presentations** | | | 
 | 15 | 04-29 M | | | | | | 
-| 15 | 04-30 T | 29 | In-Lab Demo / Presentation<br>Class will be B19b Fitz | | | |
+| 15 | 04-30 T | 29 | In-Lab Demo / Presentation<br>Class will be B19b Fitz | | | Final Presentation<br>[Final Report](https://canvas.nd.edu/courses/91970/assignments/261776)<br>[Final Code](https://canvas.nd.edu/courses/91970/assignments/261777) |
 | | | | **Finals Week** | | | 
 | 16 | 05-09 R | | Final Exam | | | | 
 
