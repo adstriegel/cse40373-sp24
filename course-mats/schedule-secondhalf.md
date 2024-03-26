@@ -27,7 +27,7 @@ In the second half, we will transition over to a bit more hardware-centric as we
 | 12 | 04-09 T | 23 | Time Sensitive Networking | Notes<br>Slides<br>Panopto | | |
 | 12 | 04-11 R | 24 | Low Power Networking | Notes<br>Slides<br>Panopto | | |
 | 12 | 04-12 F | | | | | [Pick a Lab](https://canvas.nd.edu/courses/91970/assignments/261778) |
-| 13 | | | **Week 13 - Networking Time and Power** | | | 
+| 13 | | | **Week 13 - Fault Tolerance** | | | 
 | 13 | 04-15 M | | | | Final Presentation<br>[Final Report](https://canvas.nd.edu/courses/91970/assignments/261776)<br>[Final Code](https://canvas.nd.edu/courses/91970/assignments/261777) | | 
 | 13 | 04-16 T | 25 | Fault Tolerant Systems | Notes<br>Slides<br>Panopto | | |
 | 13 | 04-18 R | 26 | Fault Tolerant Systems | Notes<br>Slides<br>Panopto | | |
