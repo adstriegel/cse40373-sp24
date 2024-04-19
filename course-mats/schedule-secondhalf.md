@@ -22,19 +22,19 @@ In the second half, we will transition over to a bit more hardware-centric as we
 | 11 | 04-02 T | 21 | Real-Time Systems | Notes<br>Slides<br>Panopto | | |
 | 11 | 04-04 R | 22 | Real-Time Systems | Notes<br>Slides<br>Panopto | | |
 | 11 | 04-05 F | | | | | [Status Report 1](https://canvas.nd.edu/courses/91970/assignments/261771) |
-| 12 | | | **Week 12 - Networking Time and Power** | | | 
+| 12 | | | **Week 12 - Fault Tolerant Systems** | | | 
 | 12 | 04-08 M | | | | [Status Report 2](https://canvas.nd.edu/courses/91970/assignments/261772) | | 
-| 12 | 04-09 T | 23 | Time Sensitive Networking | Notes<br>Slides<br>Panopto | | |
-| 12 | 04-11 R | 24 | Low Power Networking | Notes<br>Slides<br>Panopto | | |
-| 12 | 04-12 F | | | | | [Pick a Lab](https://canvas.nd.edu/courses/91970/assignments/261778) |
-| 13 | | | **Week 13 - Fault Tolerance** | | | 
+| 12 | 04-09 T | 23 | Fault Tolerant Systems | Notes<br>Slides<br>Panopto | | |
+| 12 | 04-11 R | 24 | Fault Tolerant Systems | Notes<br>Slides<br>Panopto | | |
+| 13 | | | **Week 13 - Networking and Timing** | | | 
 | 13 | 04-15 M | | | | Final Presentation<br>[Final Report](https://canvas.nd.edu/courses/91970/assignments/261776)<br>[Final Code](https://canvas.nd.edu/courses/91970/assignments/261777) | | 
-| 13 | 04-16 T | 25 | Fault Tolerant Systems | Notes<br>Slides<br>Panopto | | |
-| 13 | 04-18 R | 26 | Fault Tolerant Systems | Notes<br>Slides<br>Panopto | | |
+| 13 | 04-16 T | 25 | Time Sensitive Networking | Notes<br>Slides<br>Panopto | | |
+| 13 | 04-18 R | 26 | Low Power Networking | Notes<br>Slides<br>Panopto | | |
+| 13 | 04-19 F | | | | | [Pick a Lab](https://canvas.nd.edu/courses/91970/assignments/261778) |
 | 13 | 04-19 F | | | | | [Status Report 2](https://canvas.nd.edu/courses/91970/assignments/261772) |
-| 14 | | | **Week 14 - Storage and Security** | | | 
+| 14 | | | **Week 14 - Storage, Energy, and Security** | | | 
 | 14 | 04-22 M | | | | | | 
-| 14 | 04-23 T | 27 | Persistent Storage | Notes<br>Slides<br>Panopto | | |
+| 14 | 04-23 T | 27 | Persistent Storage, Energy | Notes<br>Slides<br>Panopto | | |
 | 14 | 04-25 R | 28 | Security / Tampering | Notes<br>Slides<br>Panopto | | |
 | 14 | 04-26 F | | | | | None |
 | 14 | | | **Week 15 - Final Presentations** | | | 
