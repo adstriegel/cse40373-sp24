@@ -23,3 +23,7 @@ The project will evolve durign the first half of March and to a lesser extent as
 * Improved concession inventory - Using a combination of sensors (e.g. open, weight), create smart inventory tools that could help better monitor the state of a given concession stand (e.g. estimate the amount of hot chocolate or lemonade left).  Explore how inexpensively such a sensor could be done and how best to connect that sensor.  
 * Smart bathroom / queuing - Explore mechanisms for how to best measure and monitor occupancy and line length for the restrooms during a football game or even within a given building (e.g. McKenna Conference Center).  
 * Campus smart safety - Explore how various aspects on campus could offer improved safety ranging from sparse areas (e.g. running around the lake) to dealing with game day monitoring / normal campus flow.  Solutions could involve mounting on campus lightpoles, near doors, or even tethered drones / rooftop options throughout campus.  
+
+## Rubrics
+
+The final deliverable rubrics can be found [here](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/readme.md).

@@ -2,16 +2,16 @@
 
 There are three deliverables associated with the course project that include:
 
-* Demonstration Video - Rubric
+* Demonstration Video - [Rubric](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/Rubric-Video.pdf)
    * The demonstration video is due at the start of class and will be played in class in Fitzpatrick B19B.  You may use the same mechanism that you did for sharing for Status Report 1 and Status Report 2.
-* Written Report - Rubric
+* Written Report - [Rubric](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/Rubric-Report.pdf)
    * A written report that accompanies your code as submitted that evening.  The written report will likely be on the order of five or more pages and should contain a title page, executive summary (abstract), solution overview, and a detailed discussion of the features, architecture, and schematic as well as a build of materials for the project.  
-* Final Code - Rubric
+* Final Code - [Rubric](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/Rubric-Code.pdf)
    * The code should be fully checked in via GitHub and shared used the same mechanisms as with the Status Report.    
 
 ## Demonstration Video
 
-Rubric
+[Rubric](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/Rubric-Video.pdf)
 
 The video is meant to be an ideal demonstration of your course project demonstrating the full set of features that you have operational. For an overview of the video, see the slide deck from Lecture 26 or the accompanying Panopto recording.  The video format allows you to appropriately prioritize demonstration of key features without the issues potentially associated with a live demonstration.  
 
@@ -30,7 +30,7 @@ Optionally, you may also do a live demo.  There will be time for live demos brie
 
 ## Final Report
 
-Rubric
+[Rubric](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/Rubric-Report.pdf)
 
 The final report should fully describe the details associated with your course project.  It should include the materials as noted below:
 
@@ -52,7 +52,7 @@ The final report should fully describe the details associated with your course p
 
 ## Final Code
 
-Rubric
+[Rubric](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/Rubric-Code.pdf)
 
 A final submission of the code for the course project should be shared via a GitHub link.  The code should be well-structured, well-commented, and should include an appropriate README.md.
 
