@@ -51,6 +51,6 @@ A brief overview of the assignments are also given below:
 | Proposal | Project Proposal | 03-18 | 03-22 | Yes | 
 | SR1 | Status Report 1 | 03-25 | 04-05 | Yes | 
 | SR2 | Status Report 2 | 04-08 | 04-19 | Yes |  
-| Demo | Recorded Video Demo - Course Project | 04-15 | 04-30 | Yes |
-| Report | Written Report - Course Project | 04-15 | 04-30 | Yes |
-| Code | Code Repository - Course Project | 04-15 | 04-30 | Yes |
+| Demo | [Recorded Video Demo - Course Project](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/rubrics.md) | 04-15 | 04-30 | Yes |
+| Report | [Written Report - Course Project](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/rubrics.md) | 04-15 | 04-30 | Yes |
+| Code | [Code Repository - Course Project](https://github.com/adstriegel/cse40373-sp24/blob/main/assignments/course-project/rubrics.md) | 04-15 | 04-30 | Yes |
